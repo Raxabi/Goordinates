@@ -1,0 +1,6 @@
+{
+  "key.goordinates.primary_run_and_shift": "Tecla primaria de Run and Shift (En BETA, no funciona)",
+  "key.goordinates.secondary_run_and_shift": "Tecla secundaria de Run and Shift (En BETA, no funciona)",
+  "key.goordinates.texteable_coords": "Escribir coordenadas actuales por el chat",
+  "debug.goordinates.coords_info": "Las coordenadas actuales son"
+}

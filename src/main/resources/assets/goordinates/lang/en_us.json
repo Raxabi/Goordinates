@@ -1,0 +1,6 @@
+{
+  "key.goordinates.primary_run_and_shift": "Primary key of Run and Shift (En BETA, no funciona)",
+  "key.goordinates.secondary_run_and_shift": "Secondary key of Run and Shift (En BETA, no funciona)",
+  "key.goordinates.texteable_coords": "Write actual coords in the chat",
+  "debug.goordinates.coords_info": "The actual coords are"
+}

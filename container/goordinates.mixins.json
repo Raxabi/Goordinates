@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.sibani.goordinates.gui",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "GoordinatesGUI"
+  ],
+  "client": [
+    "GoordinatesGUI"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
